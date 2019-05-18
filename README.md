@@ -1,4 +1,4 @@
-# Database-Design
+# PostgreSQL Database-Design
 
 A database for a stock management system.
 
